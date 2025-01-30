@@ -1,0 +1,18 @@
+.main{
+
+    width : 1000px;
+    height: 400px;
+
+    background-color: blue;
+
+    text-decoration-color: blanchedalmond;
+
+    font-size: 100px;
+    color : white;
+    text-align: center;   
+}
+
+.main:hover{
+    background-color: aquamarine;
+    color: blue;
+}
